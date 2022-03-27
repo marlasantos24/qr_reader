@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 
-class MapasPage extends StatelessWidget {
+class DireccionesPage extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
     return  Center(
-       child: Text('Mapas page')
+       child: Text('Direcciones page')
      );
   }
 }
